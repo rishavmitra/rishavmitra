@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **rishavmitra3000@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1kZkarRqFtGHT5L1m88y1PSrR6KjJ4ffc/view?usp=sharing](https://drive.google.com/file/d/1kZkarRqFtGHT5L1m88y1PSrR6KjJ4ffc/view?usp=sharing)
+- 📄 Know about my experiences [Clicky Clicky](https://drive.google.com/file/d/1fTrAs4Di0Ah5jE0ihsjNh6vdeKIBxKim/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
