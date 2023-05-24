@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Image registration using deep learning.**
 
-- 🌱 I’m currently learning **Tensorflow, Competitive Programming, Web Development**
+- 🌱 I’m currently learning **Tensorflow, Q&A testing using Katalon, Web Development**
 
-- 💬 Ask me about **nothing**
+- 💬 Ask me about **Anything, if I know the answer I'll say it else I'll learn it**
 
 - 📫 How to reach me **rishavmitra3000@gmail.com**
 
