@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rishav Mitra</h1>
 <h3 align="center">I'm a student at Sikkim Manipal Institute of Technology.</h3>
 
-- 🔭 I’m currently working on **Image registration using deep learning.**
+- 🔭 I’m currently working on **Q&A testing using Katalon**
 
 - 🌱 I’m currently learning **Tensorflow, Q&A testing using Katalon, Web Development**
 
